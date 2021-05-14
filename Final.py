@@ -35,3 +35,38 @@ otherwise if (num>0)
 M = num / 24
  percentage = M * 100
 return percentage
+
+
+def main():
+	open (Final.txt)
+	calculate_percentage_above_average(percentage,dictionary)
+
+def open(txt_file):
+   infile = open(txt_file,"r")
+   num = [num.rstrip()for num in inflie]
+   inflie.close()
+   
+  
+   
+ 
+    
+def calculate_percentage_above_average(percentage,dictionary):
+    percentage = 0 percentage of grades above average.
+   for i in num.key():
+     print(i,e) number = for each of the grade in the percentage
+    M = 0 
+   if (grade<83.25):
+     return
+	else if(grade > 83.25):
+     num = num +1
+    return num
+	else if(grade == 83.25):
+     return
+
+	if (num==0):
+      return num
+	else if(num > 0):
+      M = num / 24
+      percentage = M * 100
+      
+def manin()
